@@ -1,4 +1,3 @@
- //display brew time and temp below
 function randomColor() {
     let teaColor = ["Black Tea", "Green Tea", "White Tea", "Yellow Tea", "Red Tea"];
     return teaColor[Math.floor(Math.random() * teaColor.length)];
